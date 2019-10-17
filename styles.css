@@ -4,6 +4,7 @@ body {
 #title {
     text-align: center
 }
-#image img {
-    align-content: center
+#image {
+    height: 60vh;
+    width: 50%;
 }
