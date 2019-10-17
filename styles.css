@@ -1,10 +1,32 @@
 body {
-    background-color: grey;
+	background-color: lightgrey;
 }
 #title {
-    text-align: center
+	text-align: center;
 }
-#image {
-    height: 60vh;
-    width: 50%;
+#img-div {
+	background-color: white;
+}
+#img-div > img {
+	height: 50vh;
+	width: 50vw;
+	margin: 0 auto;
+	display: block;
+}
+#img-caption {
+	text-align: center;
+}
+#tribute-info {
+	width: 50%;
+	margin: auto;
+}
+#tribute-info h3 {
+	text-align: center;
+}
+.my-list > li {
+	text-align: center;
+}
+#myFooter {
+	text-align: center;
+	font-weight: bold;
 }
